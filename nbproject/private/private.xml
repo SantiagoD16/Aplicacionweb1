@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/web/index.jsp</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/web/ProductoVTA.jsp</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/modelo/dto/ProductoDTO.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/modelo/dto/UsuarioDTO.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/controlador/Facade.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/conexion/ConexionMySQL.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/controlador/ProductoCTO.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/modelo/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/modelo/interfaces/Obligacion.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/modelo/dao/ProductoDAO.java</file>
+            <file>file:/C:/Users/Santiago/Documents/NetBeansProjects/AplicacionWeb1/src/java/controlador/MisesionCTO.java</file>
+        </group>
+    </open-files>
+</project-private>
